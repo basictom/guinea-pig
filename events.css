@@ -1,0 +1,28 @@
+body {
+  background-color: aqua;
+}
+
+.guinea-pig-color {
+  color: blue;
+}
+
+.hulkify {
+  font-size: 54px;
+}
+.border {
+  border: 1px dotted black;
+}
+
+.rounded {
+  border-radius: 15px;
+}
+section:nth-child(1) {
+  font-weight: bold;
+}
+section:last-child {
+  font-style:italic;
+  font-weight:bold;
+}
+button {
+  display: block;
+}
